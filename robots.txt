@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://angka-goal.github.io/goal-1/sitemap.xml
